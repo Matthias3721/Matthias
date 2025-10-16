@@ -43,12 +43,8 @@ I'm passionate about learning new technologies, improving my coding skills, and 
 
 ---
 
-## 📊 GitHub Stats
-
-![Matthias's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matthias3721&show_icons=true&theme=tokyonight&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Matthias3721&layout=compact&theme=tokyonight)
 ![Snake animation](https://raw.githubusercontent.com/Matthias3721/Matthias3721/output/snake.svg)
----
+
 
 ## 🎮 Fun Facts
 - ☕ I turn caffeine into clean code.  
