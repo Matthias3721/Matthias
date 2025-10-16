@@ -43,7 +43,7 @@ I'm passionate about learning new technologies, improving my coding skills, and 
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/Matthias3721/Matthias3721/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Matthias3721/Matthias/output/snake.svg)
 
 
 ## 🎮 Fun Facts
