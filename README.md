@@ -42,7 +42,6 @@ I'm passionate about learning new technologies, improving my coding skills, and 
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 
 ---
-<img src="https://tryhackme-badges.s3.amazonaws.com/Matthias3721.png" alt="Your Image Badge" />
 
 ![Snake animation](https://raw.githubusercontent.com/Matthias3721/Matthias/output/snake.svg)
 
@@ -52,6 +51,7 @@ I'm passionate about learning new technologies, improving my coding skills, and 
 - ⚙️ I enjoy solving algorithmic problems and exploring new tech.  
 - 🚗 I like fast cars, clean design, and challenging projects.  
 - 📘 Always learning something new every day.
+<img src="https://tryhackme-badges.s3.amazonaws.com/Matthias3721.png" alt="Your Image Badge" />
 
 ---
 
