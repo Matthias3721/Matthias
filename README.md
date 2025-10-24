@@ -8,6 +8,15 @@ I'm passionate about learning new technologies, improving my coding skills, and 
 
 ---
 
+### 🛡️ TryHackMe Progress
+<p align="center">
+  <a href="https://tryhackme.com/p/Matthias3721" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Matthias3721.png" alt="TryHackMe Badge" />
+  </a>
+</p>
+
+---
+
 ## 🧠 Tech Stack
 
 **Languages**  
@@ -51,7 +60,6 @@ I'm passionate about learning new technologies, improving my coding skills, and 
 - ⚙️ I enjoy solving algorithmic problems and exploring new tech.  
 - 🚗 I like fast cars, clean design, and challenging projects.  
 - 📘 Always learning something new every day.
-<img src="https://tryhackme-badges.s3.amazonaws.com/Matthias3721.png" alt="Your Image Badge" />
 
 ---
 
