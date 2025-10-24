@@ -4,7 +4,7 @@
 I'm passionate about learning new technologies, improving my coding skills, and building practical projects.  
 
 🌱 Currently focusing on backend development and mastering algorithms.  
-🎯 My goal is to grow as a developer and contribute to real-world IT projects.  
+🎯 My goal is to grow as a developer and contribute to real-world IT projects.
 
 ---
 
@@ -42,6 +42,7 @@ I'm passionate about learning new technologies, improving my coding skills, and 
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 
 ---
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5992504" style='border:none;'></iframe> 
 
 ![Snake animation](https://raw.githubusercontent.com/Matthias3721/Matthias/output/snake.svg)
 
