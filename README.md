@@ -11,7 +11,7 @@ I'm passionate about learning new technologies, improving my coding skills, and 
 ### 🛡️ TryHackMe Progress
 <p align="center">
   <a href="https://tryhackme.com/p/Matthias3721" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Matthias3721.png" alt="TryHackMe Badge" />
+    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5992504" style='border:none;'></iframe>
   </a>
 </p>
 
