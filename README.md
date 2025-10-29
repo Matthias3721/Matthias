@@ -8,15 +8,6 @@ I'm passionate about learning new technologies, improving my coding skills, and 
 
 ---
 
-### 🛡️ TryHackMe Progress
-<p align="center">
-  <a href="https://tryhackme.com/p/Matthias3721" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Matthias3721.png" alt="Your Image Badge" />
-  </a>
-</p>
-
----
-
 ## 🧠 Tech Stack
 
 **Languages**  
